@@ -1,0 +1,25 @@
+{
+  "name": "bloody-compile",
+  "version": "0.0.1",
+  "description": "compile is a method to perform simple replacements in JavaScript.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bloodyowl/compile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloodyowl/compile/issues"
+  },
+  "homepage": "https://github.com/bloodyowl/compile",
+  "devDependencies": {
+    "tape": "~2.4.2"
+  }
+}
