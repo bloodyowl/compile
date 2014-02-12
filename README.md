@@ -2,6 +2,8 @@
 
 compile is a method to perform simple replacements in JavaScript. 
 
+[![browser support](https://ci.testling.com/bloodyowl/compile.png)](https://ci.testling.com/bloodyowl/compile)
+
 ## require 
 
 ```javascript
