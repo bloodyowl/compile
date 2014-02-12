@@ -1,6 +1,6 @@
 {
   "name": "bloody-compile",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "compile is a method to perform simple replacements in JavaScript.",
   "main": "index.js",
   "directories": {
@@ -25,13 +25,40 @@
   "testling": {
     "files": "test/*.js",
     "browsers": {
-      "ie": [ 6, 7, 8, 9 ],
-      "firefox": [ 22, 23, 24, 25 ],
-      "chrome": [ 28, 29, 30, 31 ],
-      "safari": [ 4, 5.1, 6 ],
-      "opera": [ 10, 11, 12 ],
-      "iphone" : [ 6 ],
-      "ipad" : [ 6 ]
+      "ie": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "firefox": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "chrome": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "safari": [
+        4,
+        5.1,
+        6
+      ],
+      "opera": [
+        10,
+        11,
+        12
+      ],
+      "iphone": [
+        6
+      ],
+      "ipad": [
+        6
+      ]
     }
   }
 }
