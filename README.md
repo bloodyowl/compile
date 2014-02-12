@@ -16,6 +16,8 @@ You can pass :
 
 ### Arguments 
 
+If `arguments.length` exceeds 2, arguments are used as primary keys. 
+
 ```javascript
 compile("{{0}} - {{1}} - {{2}}", "foo", "bar", "baz") 
 /* -> */ "foo - bar - baz"
