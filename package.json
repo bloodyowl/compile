@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git://github.com/bloodyowl/compile.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "bloodyowl",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bloodyowl/compile/issues"
   },
