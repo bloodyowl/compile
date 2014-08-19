@@ -1,6 +1,6 @@
 var patternRegExp = /\{\{([\w\*\.]*?)\}\}/g
-  , dotRegExp = /([^\.]+)/g
-  , slice = [].slice
+var dotRegExp = /([^\.]+)/g
+var slice = [].slice
 
 module.exports = function (string, object){
   var data = arguments.length > 2 ? slice.call(arguments, 1) : object
